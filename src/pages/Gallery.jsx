@@ -1,8 +1,8 @@
 import React from "react";
 import "animate.css";
-import img1 from "../assets/smile1.avif";
-import img2 from "../assets/smile1.avif";
-import img3 from "../assets/smile1.avif";
+import img1 from "../assets/smile3.jpg";
+import img2 from "../assets/smile3.jpg";
+import img3 from "../assets/smile3.jpg";
 
 const Gallery = () => {
   const images = [img1, img2, img3];
