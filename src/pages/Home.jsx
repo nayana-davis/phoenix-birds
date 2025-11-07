@@ -2,8 +2,8 @@ import React from "react";
 import "./home.css";
 import "animate.css";
 import { FaBirthdayCake, FaHeart, FaStar } from "react-icons/fa";
-import smile1 from "../assets/smile1.avif";
-import smile2 from "../assets/smile2.avif";
+import smile1 from "../assets/smile3.jpg";
+import smile2 from "../assets/smile3.jpg";
 import smile3 from "../assets/smile3.jpg";
 
 const Home = () => {
